@@ -13,4 +13,8 @@ This is an interactive bike sales dashboard created using Excel. It anlyzes bike
 - Data visualization with Excel charts and tables.
 - Slicers for interactive filtering.
 
+  ![dashboard-screenshot](https://github.com/user-attachments/assets/a3e406b1-b196-4212-9510-1fb1f1ba1aae)
+
+
+
 
